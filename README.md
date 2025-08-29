@@ -19,5 +19,6 @@ Este es un repositorio para subir actualizaciones del proyecto de la materia de 
 - [Entrega 2](../Entrega-2/)
 - [Entrega 3](../Entrega-3/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDQwMzM3NiwtMTk2NjE3MjMzMV19
+eyJoaXN0b3J5IjpbLTIxMzYxMDk2ODMsMTAyMDQwMzM3NiwtMT
+k2NjE3MjMzMV19
 -->
