@@ -4,7 +4,7 @@ Este es un repositorio para subir actualizaciones del proyecto de la materia de 
 
 | NOMBRES                     | FOTO                                                                                          | DESCRIPCION                                                                                                                                                             | LINKEDIN                                                                |
 | --------------------------- | ----------------------------------------|----------------------------------------------------- | ----------------- |
-|                              |                                          |                                                   |                     |
+|           a                   |                                          |                                                   |                     |
 
 
 
@@ -15,3 +15,6 @@ Este es un repositorio para subir actualizaciones del proyecto de la materia de 
 - [Entrega 1](../Entrega-1/)
 - [Entrega 2](../Entrega-2/)
 - [Entrega 3](../Entrega-3/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzA0OTgzNTkyXX0=
+-->
